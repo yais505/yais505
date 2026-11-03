@@ -1,32 +1,50 @@
+# Yais505 | Yasmin
 
-<h1>Yais505 / Yasmin</h1>
-
-<p>
-  <strong>Computer Science Student · Software & Game Development</strong>
+<p align="left">
+  <strong>Computer Science Student · Backend Development · Software Engineering</strong>
 </p>
 
-Interested in software development, game development, Linux, and learning through personal projects.
+Computer Science student interested in software development, backend engineering, and game development. Currently focused on building practical applications, improving programming fundamentals, and exploring system architecture.
 
 ---
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,sql" />
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,sql" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,git,github,vscode,linux" />
+### Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres" />
 </p>
+
+### Frontend & Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,unity,godot" />
+</p>
+
+### Tools & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
+
+---
+
+## Featured Projects
+
+- **Nexus CORE** — Hospital surgery scheduling system. Backend development with Node.js, TypeScript, Express, Supabase and JWT authentication. Team project.
+- **Data Analysis — Ceará Literacy** — Statistical analysis of literacy data across Ceará municipalities using IBGE Census 2022 data.
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=yais505&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yais505&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=yais505&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yais505&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
@@ -35,3 +53,9 @@ Interested in software development, game development, Linux, and learning throug
 
 - Portuguese — Native
 - English — Advanced
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
