@@ -42,9 +42,13 @@ Computer Science student interested in software development, backend engineering
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=yais505&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yais505&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://ghstats.dev/api/card?username=yais505&theme=dark" alt="GitHub Statistics" />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=yais505&days=90&width=800&height=120&theme=dark" alt="Contribution Activity - Last 90 Days" />
 </p>
 
 ---
@@ -57,5 +61,5 @@ Computer Science student interested in software development, backend engineering
 ---
 
 <p align="center">
-  <i>Always learning, building, and improving.</i>
+  <i>I try so hard.</i>
 </p>
