@@ -1,4 +1,4 @@
-# Yais505 | Yasmin
+# Yais505 | Ícaro
 
 <p align="left">
   <strong>Computer Science Student · Backend Development · Software Engineering</strong>
